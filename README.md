@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @normcushing
+- 👋 Hi, I’m @normcushing (Norm Cushing)
 - 👀 I’m interested in HW Control such as with an Arudino or Raspberry Pi or similar tech, and 3D printing or additive manufacturing
 - 🌱 I’m currently learning Stepper Motor control with reduced footprint motor drivers, and circuit board design and making
 - 💞️ I’m looking to collaborate on Raspberry Pi for HW Control and build very low cost automous robot vehicles that 
